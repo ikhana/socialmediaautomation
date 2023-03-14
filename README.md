@@ -18,13 +18,13 @@ Python 3.x
 Pip
 ### Installation
 Clone the repository:
-bash
-Copy code
+
+
 ```git clone https://github.com/<your-github-username>/social-media-automation.git```
 cd social-media-automation
 Create and activate a virtual environment:
-bash
-Copy code
+
+
 python -m venv venv
 ```source venv/bin/activate```
 Install the required packages:

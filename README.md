@@ -32,13 +32,13 @@ bash
 Copy code
 pip install -r requirements.txt
 Create a .env file in the project root directory with the following environment variables:
-bash
-Copy code
+
+```
 DB_HOST=<database-host>
 DB_PORT=<database-port>
 DB_NAME=<database-name>
 DB_USER=<database-username>
-DB_PASSWORD=<database-password>
+DB_PASSWORD=<database-password>```
 Usage
 Start the microservices for the platforms you want to use:
 bash
